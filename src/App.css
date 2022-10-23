@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.colorBox{
+  border: solid black 1px;
+  padding: 30px;
+}
+.box {
+  border: 1px solid #000;
+  margin: 10px 0;
+  display: flex;
+}
+.random {
+  border: solid 1px black;
+}
+h1{
+  display: flex;
+}
+.fr{
+  border: 1px solid #000;
+  padding: 5px;
+  margin: 30px;
+}
+.en{
+  border: 1px solid #000;
+  padding: 5px;
+  margin: 10px 0;
+}
+
